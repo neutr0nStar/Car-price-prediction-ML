@@ -23,5 +23,5 @@ We are required to model the price of cars with the available independent variab
 * Then, did some pre processing like One hot Encoding.
 * Then split data into train and test using `sklearn.model_selection.train_test_split`.
 * Then trained a Linear regression model and achieved 91.5 % accuracy against test data set.
-* The accuracy is further improved using **L2 or Ridgre regression**. The final accuracy is 94.41 %.
+* The accuracy is further improved using **L2 or Ridge regression**. The final accuracy is 94.41 %.
 * I finally exported the model to a joblib file.
